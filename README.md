@@ -6,5 +6,5 @@ In this project I have used a dataset from Kaggle:
 
 ## Files Included
 - .R file
-- Final report
+- Final report .pdf
 - ds_salaries.csv
